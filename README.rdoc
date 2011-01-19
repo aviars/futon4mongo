@@ -21,7 +21,7 @@ To install those gems :
 
     $ gem sources -a http://gems.github.com
     $ sudo gem install bundler
-
+    $ sudo ln -s /var/lib/gems/1.8/bin/bundle /usr/bin/bundle	
 === Installation
 
     $ git clone git://github.com/sbellity/futon4mongo.git
